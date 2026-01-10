@@ -20,7 +20,12 @@ class Solution {
                 goingDown = !goingDown;
             }
 
-            currRow += goingDown ? 1 : -1;
+            if (goingDown) {
+                currRow = currRow + 1;
+            } else {
+                currRow = currRow - 1;
+            }
+
         }
 
         StringBuilder result = new StringBuilder();
