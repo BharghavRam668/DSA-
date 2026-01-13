@@ -3,7 +3,6 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         int sum =0;
         int max = 0;
-        Arrays.sort(nums);
         for(int num : nums){
             map.put(num,map.getOrDefault(num,0)+1);
         }
