@@ -45,4 +45,16 @@
 | ------- |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
