@@ -51,6 +51,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 ## Dynamic Programming
 |  |
 | ------- |
