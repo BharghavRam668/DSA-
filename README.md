@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
