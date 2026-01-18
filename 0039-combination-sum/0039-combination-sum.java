@@ -1,0 +1,20 @@
+class Solution {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        List<List<Integer>> res = new ArrayList<>();
+        dfs(candidates, target, 0, new ArrayList<>(), res);
+        return res;
+    }
+
+    private void dfs(int[] a, int t, int idx, List<Integer> cur, List<List<Integer>> res) {
+        if (t == 0) {
+            res.add(new ArrayList<>(cur));
+            return;
+        }
+        for (int i = idx; i < a.length && a[i] <= t; i++) {
+            cur.add(a[i]);
+            dfs(a, t - a[i], i, cur, res);
+            cur.remove(cur.size() - 1);
+        }
+    }
+}
