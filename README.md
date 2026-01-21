@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/BharghavRam668/DSA-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
@@ -36,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
@@ -52,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Math
@@ -89,4 +93,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
