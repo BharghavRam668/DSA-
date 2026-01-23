@@ -1,13 +1,15 @@
-import java.util.*;
-
 class Solution {
     public int minimumDifference(int[] nums, int k) {
-        if (k == 1) return 0;
+        if(nums.length < k || k==1){
+            return 0 ;
+       }
+        int diff = Integer.MAX_VALUE;
         Arrays.sort(nums);
-        int min = Integer.MAX_VALUE;
-        for (int i = 0; i + k - 1 < nums.length; i++) {
-            min = Math.min(min, nums[i + k - 1] - nums[i]);
+
+        for(int i = 0 ; i <= nums.length - k ; i++){
+            diff = Math.min(diff,nums[i+k-1] - nums[i]);
         }
-        return min;
+       
+        return diff;
     }
 }
