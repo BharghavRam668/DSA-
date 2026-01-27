@@ -71,6 +71,7 @@
 | ------- |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
 ## Dynamic Programming
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
