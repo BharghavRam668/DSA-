@@ -74,6 +74,7 @@
 | ------- |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0461-hamming-distance) |
@@ -130,6 +131,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 ## Binary Search
 |  |
