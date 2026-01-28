@@ -72,6 +72,7 @@
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
