@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -92,6 +93,7 @@
 | [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
