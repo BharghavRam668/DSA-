@@ -79,6 +79,7 @@
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
@@ -148,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -166,4 +168,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
