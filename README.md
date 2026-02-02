@@ -30,6 +30,7 @@
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1470-shuffle-the-array](https://github.com/BharghavRam668/DSA-/tree/master/1470-shuffle-the-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
@@ -45,6 +46,7 @@
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -59,6 +61,7 @@
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
