@@ -35,6 +35,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -169,6 +170,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
