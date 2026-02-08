@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/BharghavRam668/DSA-/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
