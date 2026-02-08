@@ -25,6 +25,7 @@
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/BharghavRam668/DSA-/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
