@@ -26,6 +26,7 @@
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/BharghavRam668/DSA-/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/BharghavRam668/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 ## Memoization
 |  |
 | ------- |
