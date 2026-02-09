@@ -1,33 +1,22 @@
 class Solution {
+    public int totalNumbers(int[] digits) {
+        HashSet<Integer> set = new HashSet<>();
 
-    int count = 0;
+        for(int i = 0 ; i< digits.length ; i++){
+            if(digits[i]==0) continue;
+            for(int j = 0 ; j < digits.length ; j++){
+                if( j==i ) continue;
+                for(int k = 0 ; k < digits.length ; k++){
+                    if(k == i || k == j) continue;
 
-    void backtrack(int[] freq, int pos, int num) {
-        if (pos == 3) {
-            if (num % 2 == 0) count++;
-            return;
-        }
+                    if(digits[k] % 2 != 0) continue; 
 
-        for (int d = 0; d <= 9; d++) {
-            if (freq[d] > 0) {
-
-                if (pos == 0 && d == 0) continue;
-
-                freq[d]--;
-                backtrack(freq, pos + 1, num * 10 + d);
-                freq[d]++;
+                    int ans = digits[i]*100 + digits[j]*10 + digits[k];
+                    set.add(ans);
+                }
             }
         }
-    }
-
-    public int totalNumbers(int[] digits) {
-        int[] freq = new int[10];
-
-        for (int d : digits) {
-            freq[d]++;
-        }
-
-        backtrack(freq, 0, 0);
-        return count;
+        return set.size();
     }
 }
+
