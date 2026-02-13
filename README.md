@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -70,6 +71,7 @@
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
