@@ -24,6 +24,7 @@
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/BharghavRam668/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BharghavRam668/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 ## Memoization
