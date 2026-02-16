@@ -43,6 +43,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/BharghavRam668/DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
+| [2574-left-and-right-sum-differences](https://github.com/BharghavRam668/DSA-/tree/master/2574-left-and-right-sum-differences) |
 ## Enumeration
 |  |
 | ------- |
