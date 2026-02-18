@@ -25,6 +25,7 @@
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/BharghavRam668/DSA-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
