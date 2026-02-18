@@ -227,10 +227,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -250,4 +252,12 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
