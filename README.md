@@ -116,6 +116,7 @@
 | [0476-number-complement](https://github.com/BharghavRam668/DSA-/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/BharghavRam668/DSA-/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
