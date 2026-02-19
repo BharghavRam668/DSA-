@@ -10,6 +10,7 @@
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -158,6 +159,7 @@
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
