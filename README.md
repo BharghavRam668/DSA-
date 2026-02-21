@@ -123,6 +123,7 @@
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BharghavRam668/DSA-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BharghavRam668/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BharghavRam668/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
