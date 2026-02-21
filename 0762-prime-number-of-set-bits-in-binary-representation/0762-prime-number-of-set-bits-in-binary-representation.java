@@ -1,22 +1,18 @@
 class Solution {
-    public int countPrimeSetBits(int left, int right) {
-        boolean[] prime = new boolean[21];
-        prime[2] = true;
-        prime[3] = true;
-        prime[5] = true;
-        prime[7] = true;
-        prime[11] = true;
-        prime[13] = true;
-        prime[17] = true;
-        prime[19] = true;
-        int ans = 0;
-        for(int i = left ; i<=right ; i++){
-            int bits = Integer.bitCount(i);
+        public int countPrimeSetBits(int left, int right) {
 
-            if(prime[bits]){
-                ans++;
-            }
-        }
-        return ans;
-    }
-}
+                // Prime bit counts up to 32 bits
+                        Set<Integer> prime = Set.of(
+                                    2,3,5,7,11,13,17,19,23,29,31
+                                            );
+
+                                                    int ans = 0;
+
+                                                            for (int i = left; i <= right; i++) {
+                                                                        int bits = Integer.bitCount(i);  // fast built-in
+                                                                                    if (prime.contains(bits)) ans++;
+                                                                                            }
+
+                                                                                                    return ans;
+                                                                                                        }
+                                                                                                        }
