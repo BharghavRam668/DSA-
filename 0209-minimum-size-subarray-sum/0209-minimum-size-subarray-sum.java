@@ -9,11 +9,11 @@ class Solution {
             
             sum = sum + nums[right];
             while(sum >= target){
-                min = Math.min(min,right -left +1);
-                if(sum >= target){
-                    sum = sum - nums[left];
-                    left++;
-                }  
+                min = Math.min(min,right - left +1);
+                
+                sum = sum - nums[left];
+                left++;
+                  
             }
             
         }
