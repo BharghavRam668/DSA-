@@ -138,6 +138,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/BharghavRam668/DSA-/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
@@ -239,6 +240,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/BharghavRam668/DSA-/tree/master/0584-find-customer-referee) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
