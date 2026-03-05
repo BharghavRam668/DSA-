@@ -156,6 +156,7 @@
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BharghavRam668/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1175-prime-arrangements](https://github.com/BharghavRam668/DSA-/tree/master/1175-prime-arrangements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
