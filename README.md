@@ -159,6 +159,7 @@
 | [1175-prime-arrangements](https://github.com/BharghavRam668/DSA-/tree/master/1175-prime-arrangements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/BharghavRam668/DSA-/tree/master/2523-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,4 +315,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BharghavRam668/DSA-/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/BharghavRam668/DSA-/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
