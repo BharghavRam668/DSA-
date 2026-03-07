@@ -31,6 +31,7 @@
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/BharghavRam668/DSA-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
@@ -170,6 +171,7 @@
 | [0022-generate-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
