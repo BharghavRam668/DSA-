@@ -18,6 +18,7 @@
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/BharghavRam668/DSA-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/BharghavRam668/DSA-/tree/master/1470-shuffle-the-array) |
+| [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
@@ -96,6 +98,7 @@
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/BharghavRam668/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -203,6 +206,7 @@
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
