@@ -165,6 +165,7 @@
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BharghavRam668/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/BharghavRam668/DSA-/tree/master/1175-prime-arrangements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
@@ -182,6 +183,7 @@
 | [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/BharghavRam668/DSA-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
@@ -298,6 +300,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 ## Depth-First Search
 |  |
@@ -328,4 +331,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/BharghavRam668/DSA-/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/BharghavRam668/DSA-/tree/master/2523-closest-prime-numbers-in-range) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
