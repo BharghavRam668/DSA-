@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/BharghavRam668/DSA-/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
@@ -33,6 +34,7 @@
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
@@ -210,6 +212,7 @@
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
@@ -307,6 +310,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
@@ -337,4 +341,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
