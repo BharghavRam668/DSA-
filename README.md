@@ -14,6 +14,7 @@
 | [0168-excel-sheet-column-title](https://github.com/BharghavRam668/DSA-/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BharghavRam668/DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -186,6 +187,7 @@
 | [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/BharghavRam668/DSA-/tree/master/0413-arithmetic-slices) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -202,6 +204,7 @@
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
