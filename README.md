@@ -59,6 +59,7 @@
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/BharghavRam668/DSA-/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
@@ -255,6 +256,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
