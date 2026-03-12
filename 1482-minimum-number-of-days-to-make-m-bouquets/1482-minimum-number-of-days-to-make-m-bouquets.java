@@ -9,6 +9,7 @@ class Solution {
         
         for(int d : bloomDay){
             r = Math.max(r, d);
+            l = Math.min(l, d);
         }
    
         while(l<=r){
