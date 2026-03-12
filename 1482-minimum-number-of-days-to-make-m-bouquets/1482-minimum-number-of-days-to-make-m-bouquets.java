@@ -40,10 +40,7 @@ class Solution {
                 flowers = 0;
                                                             
             }
-                                                                                                            
-
         }
-
         return bouquets >= m;
     }
 }
