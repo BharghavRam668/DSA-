@@ -175,6 +175,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BharghavRam668/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/BharghavRam668/DSA-/tree/master/1175-prime-arrangements) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/BharghavRam668/DSA-/tree/master/2523-closest-prime-numbers-in-range) |
@@ -193,6 +194,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/BharghavRam668/DSA-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 ## Depth-First Search
 |  |
@@ -356,4 +359,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/BharghavRam668/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
