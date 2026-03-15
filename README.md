@@ -337,6 +337,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/BharghavRam668/DSA-/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/BharghavRam668/DSA-/tree/master/0584-find-customer-referee) |
 ## Linked List
 |  |
