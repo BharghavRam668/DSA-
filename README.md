@@ -57,6 +57,7 @@
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/BharghavRam668/DSA-/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/BharghavRam668/DSA-/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
