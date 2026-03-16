@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BharghavRam668/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
@@ -94,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BharghavRam668/DSA-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharghavRam668/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
