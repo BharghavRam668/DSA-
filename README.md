@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BharghavRam668/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BharghavRam668/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BharghavRam668/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BharghavRam668/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
