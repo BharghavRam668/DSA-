@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/BharghavRam668/DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/BharghavRam668/DSA-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/BharghavRam668/DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BharghavRam668/DSA-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
@@ -364,6 +366,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BharghavRam668/DSA-/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 ## String Matching
