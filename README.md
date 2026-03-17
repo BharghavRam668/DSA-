@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/BharghavRam668/DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharghavRam668/DSA-/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BharghavRam668/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +254,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
