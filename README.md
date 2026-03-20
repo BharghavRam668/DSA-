@@ -41,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BharghavRam668/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/BharghavRam668/DSA-/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/BharghavRam668/DSA-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
@@ -194,6 +195,7 @@
 | [0053-maximum-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/BharghavRam668/DSA-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/BharghavRam668/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BharghavRam668/DSA-/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/BharghavRam668/DSA-/tree/master/0338-counting-bits) |
