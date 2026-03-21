@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharghavRam668/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BharghavRam668/DSA-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/BharghavRam668/DSA-/tree/master/0168-excel-sheet-column-title) |
@@ -216,6 +217,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BharghavRam668/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharghavRam668/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
@@ -374,6 +376,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/BharghavRam668/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Probability and Statistics
 |  |
