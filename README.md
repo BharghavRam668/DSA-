@@ -16,6 +16,7 @@
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BharghavRam668/DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -178,6 +179,7 @@
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -282,6 +284,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BharghavRam668/DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
