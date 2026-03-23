@@ -179,6 +179,7 @@
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/BharghavRam668/DSA-/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
@@ -299,6 +300,7 @@
 | [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/BharghavRam668/DSA-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/BharghavRam668/DSA-/tree/master/0390-elimination-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
