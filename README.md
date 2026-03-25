@@ -181,6 +181,7 @@
 | [0231-power-of-two](https://github.com/BharghavRam668/DSA-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/BharghavRam668/DSA-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/BharghavRam668/DSA-/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/BharghavRam668/DSA-/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
@@ -335,6 +336,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/BharghavRam668/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
@@ -373,6 +375,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/BharghavRam668/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
