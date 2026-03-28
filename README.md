@@ -309,11 +309,13 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Prefix Sum
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
@@ -396,6 +399,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
