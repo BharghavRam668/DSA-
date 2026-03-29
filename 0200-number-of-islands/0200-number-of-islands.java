@@ -7,14 +7,24 @@ class Solution {
             for(int j = 0 ; j < col ; j++ ){
                 if(grid[i][j] == '1'){
                     count++;
-                    bfs(grid,i,j,row , col);
+                    dfs(grid,i,j,row , col);
                     
                 }
             }
         }
         return count;
     }
-    public void bfs(char[][] grid , int i , int j, int row , int col){
+    public void dfs(char[][] grid , int i ,int j , int row , int col){
+        if(i < 0 || j < 0 || i >= row || j >= col || grid[i][j] == '0'){
+            return;
+        }
+        grid[i][j]= '0';
+        dfs(grid , i + 1 , j , row ,col);
+        dfs(grid , i - 1 , j , row ,col);
+        dfs(grid , i  , j +1, row ,col);
+        dfs(grid , i  , j - 1, row ,col);
+    }
+    /*public void bfs(char[][] grid , int i , int j, int row , int col){
 
         Queue<int[]> q = new LinkedList<>();
         q.offer( new int[]{i,j});
@@ -35,5 +45,6 @@ class Solution {
             }
         }
     }
+    */
 }
 
