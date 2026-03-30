@@ -6,13 +6,32 @@ class Solution {
         for(int i = 0 ; i < row ; i++){
             for(int j = 0 ; j < col ; j++){
                 if(grid[i][j] == 1){
-                    int area = bfs(grid,i,j,row,col);
+                    int area = dfs(grid,i,j,row,col);
                     max = Math.max(max,area);
                 }
             }
         }
         return max;
     }
+
+    public int dfs(int[][] grid , int i , int j , int row , int col){
+        if(i < 0 || j < 0 || i>= row || j >= col || grid[i][j] == 0){
+            return 0;
+        }
+        int count =1;
+        
+        grid[i][j] = 0;
+        count +=dfs(grid,i -1 , j , row , col);
+        
+        count +=dfs(grid,i +1 , j , row , col);
+        
+        count +=dfs(grid,i  , j -1 , row , col);
+        
+        count +=dfs(grid,i  , j + 1 , row , col);
+        
+        return count;
+    }
+    /*
     public int bfs(int[][] grid , int i , int j , int row , int col){
 
         int[][] directions ={{-1,0},{1,0},{0,1},{0,-1}}; 
@@ -36,4 +55,5 @@ class Solution {
         }
         return count;
     }
+    */
 }
