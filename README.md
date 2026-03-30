@@ -63,6 +63,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/BharghavRam668/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/BharghavRam668/DSA-/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/BharghavRam668/DSA-/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
@@ -350,6 +351,7 @@
 | [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/BharghavRam668/DSA-/tree/master/0200-number-of-islands) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BharghavRam668/DSA-/tree/master/0538-convert-bst-to-greater-tree) |
+| [0695-max-area-of-island](https://github.com/BharghavRam668/DSA-/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [0048-rotate-image](https://github.com/BharghavRam668/DSA-/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/BharghavRam668/DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BharghavRam668/DSA-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
@@ -404,6 +407,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/BharghavRam668/DSA-/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/BharghavRam668/DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BharghavRam668/DSA-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/BharghavRam668/DSA-/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
@@ -413,4 +417,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/BharghavRam668/DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BharghavRam668/DSA-/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
