@@ -26,6 +26,7 @@
 | [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/BharghavRam668/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3227-vowels-game-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/3227-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BharghavRam668/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/BharghavRam668/DSA-/tree/master/2523-closest-prime-numbers-in-range) |
+| [3227-vowels-game-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BharghavRam668/DSA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/3227-vowels-game-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -387,6 +390,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/BharghavRam668/DSA-/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BharghavRam668/DSA-/tree/master/1025-divisor-game) |
+| [3227-vowels-game-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/3227-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
