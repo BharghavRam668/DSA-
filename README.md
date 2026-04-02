@@ -186,6 +186,7 @@
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/BharghavRam668/DSA-/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/BharghavRam668/DSA-/tree/master/0390-elimination-game) |
+| [0400-nth-digit](https://github.com/BharghavRam668/DSA-/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/BharghavRam668/DSA-/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/BharghavRam668/DSA-/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/BharghavRam668/DSA-/tree/master/0507-perfect-number) |
@@ -282,6 +283,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/BharghavRam668/DSA-/tree/master/0400-nth-digit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
