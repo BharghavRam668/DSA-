@@ -375,6 +375,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/BharghavRam668/DSA-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/BharghavRam668/DSA-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/BharghavRam668/DSA-/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/BharghavRam668/DSA-/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/BharghavRam668/DSA-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/BharghavRam668/DSA-/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/BharghavRam668/DSA-/tree/master/0620-not-boring-movies) |
