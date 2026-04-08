@@ -85,6 +85,7 @@
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BharghavRam668/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0190-reverse-bits](https://github.com/BharghavRam668/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/BharghavRam668/DSA-/tree/master/1763-longest-nice-substring) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BharghavRam668/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BharghavRam668/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Ordered Set
 |  |
 | ------- |
