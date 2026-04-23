@@ -83,6 +83,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/BharghavRam668/DSA-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/BharghavRam668/DSA-/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/BharghavRam668/DSA-/tree/master/2615-sum-of-distances) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/BharghavRam668/DSA-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/BharghavRam668/DSA-/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
@@ -126,6 +127,7 @@
 | [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BharghavRam668/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/BharghavRam668/DSA-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -336,6 +338,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0848-shifting-letters](https://github.com/BharghavRam668/DSA-/tree/master/0848-shifting-letters) |
 | [2574-left-and-right-sum-differences](https://github.com/BharghavRam668/DSA-/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/BharghavRam668/DSA-/tree/master/2615-sum-of-distances) |
 ## Enumeration
 |  |
 | ------- |
