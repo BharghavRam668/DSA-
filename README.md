@@ -185,6 +185,7 @@
 | [0048-rotate-image](https://github.com/BharghavRam668/DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BharghavRam668/DSA-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/BharghavRam668/DSA-/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/BharghavRam668/DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BharghavRam668/DSA-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/BharghavRam668/DSA-/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BharghavRam668/DSA-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BharghavRam668/DSA-/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/BharghavRam668/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BharghavRam668/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BharghavRam668/DSA-/tree/master/0268-missing-number) |
