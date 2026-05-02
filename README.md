@@ -12,6 +12,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BharghavRam668/DSA-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/BharghavRam668/DSA-/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/BharghavRam668/DSA-/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/BharghavRam668/DSA-/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/BharghavRam668/DSA-/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/BharghavRam668/DSA-/tree/master/0187-repeated-dna-sequences) |
