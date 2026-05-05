@@ -239,6 +239,7 @@
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharghavRam668/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/BharghavRam668/DSA-/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/BharghavRam668/DSA-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BharghavRam668/DSA-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/BharghavRam668/DSA-/tree/master/0061-rotate-list) |
 ## Number Theory
 |  |
 | ------- |
