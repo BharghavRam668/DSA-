@@ -79,6 +79,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1980-find-unique-binary-string](https://github.com/BharghavRam668/DSA-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/BharghavRam668/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -143,6 +144,7 @@
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BharghavRam668/DSA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BharghavRam668/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2094-finding-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -245,6 +247,7 @@
 | [0392-is-subsequence](https://github.com/BharghavRam668/DSA-/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/BharghavRam668/DSA-/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2105-watering-plants-ii](https://github.com/BharghavRam668/DSA-/tree/master/2105-watering-plants-ii) |
 | [2396-strictly-palindromic-number](https://github.com/BharghavRam668/DSA-/tree/master/2396-strictly-palindromic-number) |
 ## Backtracking
@@ -263,6 +266,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,6 +275,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BharghavRam668/DSA-/tree/master/0239-sliding-window-maximum) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -298,6 +303,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BharghavRam668/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/BharghavRam668/DSA-/tree/master/0400-nth-digit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BharghavRam668/DSA-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -356,6 +362,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/BharghavRam668/DSA-/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/BharghavRam668/DSA-/tree/master/0881-boats-to-save-people) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/BharghavRam668/DSA-/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Brainteaser
 |  |
 | ------- |
