@@ -31,6 +31,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/BharghavRam668/DSA-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BharghavRam668/DSA-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/BharghavRam668/DSA-/tree/master/3227-vowels-game-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/BharghavRam668/DSA-/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BharghavRam668/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BharghavRam668/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/BharghavRam668/DSA-/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [3379-transformed-array](https://github.com/BharghavRam668/DSA-/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/BharghavRam668/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BharghavRam668/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/BharghavRam668/DSA-/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
 |  |
 | ------- |
